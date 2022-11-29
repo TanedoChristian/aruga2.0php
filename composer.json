@@ -1,0 +1,12 @@
+{
+    "name": "christian/aruga",
+    "description": "Aruga platform",
+    "authors": [
+        {
+            "name": "Cj",
+            "email": "tanedochristian1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
